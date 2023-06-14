@@ -1,0 +1,18 @@
+body{
+    background-color: black;
+}
+
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(253, 0, 0);
+
+}
+
+address, p{
+    color: rgb(238, 255, 0);
+}
+
+h2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+    color: rgb(233, 229, 9);
+}
